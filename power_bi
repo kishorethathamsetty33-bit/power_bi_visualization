@@ -1,0 +1,79 @@
+# Netflix Content Intelligence Dashboard
+
+## Project Overview
+
+An interactive Power BI dashboard designed to analyze Netflix content data and generate clear business insights across content mix, genres, countries, audience maturity, original content, and growth trends.
+
+The project transforms 10,000 content records into an interactive 4-page analytical dashboard using Power BI, Power Query, DAX, and data modeling.
+
+## Key Objectives
+
+- Analyze Movies vs TV Shows distribution
+- Identify top genres and content-producing countries
+- Understand content growth trends over time
+- Analyze ratings and audience maturity
+- Compare Original vs Non-Original content
+- Enable interactive content exploration through slicers and filters
+
+## Tools & Technologies
+
+- Power BI – Dashboard development and business reporting
+- Power Query – Data cleaning and transformation
+- DAX – KPI and calculated measure development
+- Data Modeling – Date Table and relationships
+- CSV – Structured data source
+- Data Visualization – Charts, KPI cards, slicers and interactive reports
+
+## Dashboard Pages
+
+### 1. Executive Overview
+Provides a high-level view of total titles, Movies, TV Shows, Originals, Original %, growth trends, top genres and leading countries.
+
+### 2. Content & Genre Analysis
+Analyzes content by release year, ratings, maturity groups and genre categories.
+
+### 3. Global & Audience Insights
+Explores content distribution across countries, languages, ratings and Original content.
+
+### 4. Catalog Explorer & Business Insights
+Provides detailed content-level exploration along with business recommendations, project outcomes and challenges.
+
+## Key DAX Measures
+
+- Total Titles
+- Movies
+- TV Shows
+- Originals
+- Original %
+- Movie %
+- TV Show %
+- Countries
+- Genres
+- Average Movie Runtime
+- Average TV Seasons
+- Previous Year Content
+- YoY Growth %
+
+## Key Insights
+
+- Movies represent the larger share of the analyzed catalog.
+- Content is distributed across multiple genres, countries and languages.
+- The dashboard highlights differences in content maturity and ratings.
+- Original and non-original content can be analyzed dynamically.
+- Time-based analysis helps understand content addition and growth trends.
+
+## Business Recommendations
+
+- Prioritize high-performing genres and key markets for future content investment.
+- Strengthen localized and original content strategies in high-potential markets.
+- Optimize the Movie and TV Show mix based on catalog growth trends.
+- Use ratings and maturity insights to support audience-focused content planning.
+- Monitor content growth trends to support future acquisition and investment decisions.
+
+## Project Outcome
+
+Developed a 4-page interactive Power BI dashboard using 10,000 content records, featuring DAX-based KPIs, dynamic slicers, trend analysis, data modeling and detailed content exploration.
+
+## Note
+
+This project uses a synthetic, portfolio-ready Netflix-style dataset created for learning and demonstration purposes. It does not represent Netflix's official internal data.
